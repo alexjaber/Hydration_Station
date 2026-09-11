@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "HySta Symbols")(type "KiCad")(uri "${KIPRJMOD}/HySta Symbols.kicad_sym")(options "")(descr ""))
+)
