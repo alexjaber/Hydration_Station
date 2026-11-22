@@ -6,7 +6,7 @@ This GitHub repository holds the KiCad files for the Hydration Station circuit b
 
 # Electrical Overview
 
-A majority of the electrical design is in the circuit board. This board was designed in KiCad. To open the project, open KiCad and use KiCad to open the `Full Hydration Station.kicad\_pro` in the `Hydration Station Circuit` folder. This will allow you open up the schematic and PCB layout for the Hydration Station circuit board.
+A majority of the electrical design is in the circuit board. This board was designed in KiCad. To open the project, open KiCad and use KiCad to open the `Full Hydration Station.kicad_pro` in the `Hydration Station Circuit` folder. This will allow you open up the schematic and PCB layout for the Hydration Station circuit board.
 
 
 
